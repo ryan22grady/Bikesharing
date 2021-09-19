@@ -20,10 +20,13 @@ This illustrates some key takeaways: gender of riders; location of most rides; a
 
 ![image 3](https://user-images.githubusercontent.com/84995704/133941937-82c32758-52ed-4c92-89e5-c6b79d1b4e1f.png)
 
+This illustrates that most rides are during general workday commute hours, and during workday hours. One could infer that riders are commuters, or people just riding for activities during business hours. 
 
 ### 4. 
 
 ![image 4](https://user-images.githubusercontent.com/84995704/133941941-db41d61e-a0af-4b76-b419-0db7f33d766d.png)
+
+Similar idea to the aforementioned analysis with corroborating evidence of male-dominating ridership. 
 
 
 ### 5. 
