@@ -46,7 +46,7 @@ Ridership is low in the early morning hours.
 
 ![image 7](https://user-images.githubusercontent.com/84995704/133941958-bd63e90a-cbf0-4de9-874a-614f58819039.png)
 
-Despite low ridership, substantial evidence that males dominate this aspect of the demographics as well
+Despite low ridership, substantial evidence that males dominate this aspect of the demographics as well.
 
 
 ## Summary
