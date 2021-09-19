@@ -7,7 +7,7 @@ I've used Tableau to do some analysis on NYC Citi Bike usage. However, there is 
 ### 1. 
 
 ![image 1](https://user-images.githubusercontent.com/84995704/133941923-aae8fd54-9140-445b-8830-01d94bcf00a2.png)
-
+This depicts number of riders in relation to duration spent riding. The implication is that many riders don't ride for long periods. Comfort, price, and intent are yet to be determining factors. 
 
 ### 2.
 
