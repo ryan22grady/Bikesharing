@@ -41,4 +41,5 @@ I've used Tableau to do some analysis on NYC Citi Bike usage. However, there is 
 
 
 ## Summary
-At the moment at Pewlett Hackard, 64% of their employees are eligible for retirement and/or being redirected to mentorship initiatives. This implies that Pewlett Hackard are likely going to need an extensive hiring process in the upcoming years, since more than 50% are eligible losses. The good news, however, is that there is an ample pool of qualified, retirement-ready employees to mentor the next genermation. Further querying that isolates specific departments could provide better insight into the areas of the company that stand to be most effected.  Additional queries into manager to employee ratio could aid as well. 
+One of the most distinct discoveries from the analysis is the gap between male and female riders. 
+The other 
