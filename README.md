@@ -52,3 +52,6 @@ Despite low ridership, substantial evidence that males dominate this aspect of t
 ## Summary
 One of the most distinct discoveries from the analysis is the gap between male and female riders. In almost every aspect, males outnumber women in ridership. The time of day or lenght of ride are not really aiding factors in the knowlegdge gap. Clearly, marketing needs to target this demographic. 
 The other observation is that many riders take short trips on bikes. This, compiled with the most riders seemingly being the most densly populated areas of an already densly populated city gives further thoughts. Riders may use Citi bikes with the intent of reaching short distances only, or perhaps it is considered a novelty to outsiders in tourist dense Manhattan. More data and analysis is clearly needed indeed. I think that more date or visuals on the local of bike stations would aid in determining some more reasons why Manhattan reigns as the busiest area for ridership. Also, more visuals on the bike routes would help to truly get an idea of the intent of ridership. 
+
+
+https://public.tableau.com/app/profile/ryan4847/viz/Bikeshare_challenge_16320852533980/Story1?publish=yes
