@@ -33,15 +33,20 @@ Similar idea to the aforementioned analysis with corroborating evidence of male-
 
 ![image 5](https://user-images.githubusercontent.com/84995704/133941945-6f0ccb52-224b-4c4c-ac33-403874e604d4.png)
 
+Again, males dominate ridership, but also are the primary subscribers as well. 
 
 ### 6. 
 
 ![image 6](https://user-images.githubusercontent.com/84995704/133941954-bb351b25-b771-4040-a296-7a0b2484bf8c.png)
 
+Ridership is low in the early morning hours. 
+
 
 ### 7. 
 
 ![image 7](https://user-images.githubusercontent.com/84995704/133941958-bd63e90a-cbf0-4de9-874a-614f58819039.png)
+
+Despite low ridership, substantial evidence that males dominate this aspect of the demographics as well
 
 
 ## Summary
