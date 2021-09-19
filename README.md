@@ -1,22 +1,44 @@
 # Bikesharing
 
 ## Project Overview
-Now that Bobby has proven his SQL chops, his manager has given the two of us more assignments: determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. We then were instructed to write a report that summarizes the analysis and helps prepare Bobby’s manager for the “silver tsunami” as many current employees reach retirement age.
+I've used Tableau to do some analysis on NYC Citi Bike usage. However, there is still some more work to be done to convince investors that a bike-sharing program in Des Moines is a solid business proposal. To solidify the proposal, one of the key stakeholders would like to see further bike trip analysis.
 
 ## Results
-- With the retirement_titles table, we were able to see all employees elligible for retirement and then associate those elligible with how long he or she has worked at company and the current job title.
+### 1. 
 
-<img width="485" alt="Screen Shot 2021-08-01 at 7 38 24 PM" src="https://user-images.githubusercontent.com/84995704/127790595-24b33154-1c72-4f93-8022-15416720e6b9.png">
+![image 1](https://user-images.githubusercontent.com/84995704/133941923-aae8fd54-9140-445b-8830-01d94bcf00a2.png)
 
-- The unique_titles table  allowed us to further refine the retirement_titles table by removing deplicate rows of titles, so we can get a better count of elligible employees. 
 
-- Our retiring_titles illustrated us the a majority of the employees of retirement age (57,668/90,398 = 64%) have senior titles.
+### 2.
 
-<img width="175" alt="Screen Shot 2021-08-01 at 7 40 10 PM" src="https://user-images.githubusercontent.com/84995704/127790640-8b7e0b58-5881-4ad2-a177-0ec7723f98dc.png">
 
-- The last part of our project displays mentorship eligibility. Here we noticed that most employees who meet the age requirement for the mentorship program are eligible for retirement and have senior titles. Clearly, the strength of the mentorship program is reliant on senior-titled employees who are eligible for retirement, making the program somewhat vulnerable. 
+![image 2](https://user-images.githubusercontent.com/84995704/133941928-d9bdbbea-b0c8-429f-a073-0dc402bd375f.png)
 
-<img width="581" alt="Screen Shot 2021-08-01 at 7 39 00 PM" src="https://user-images.githubusercontent.com/84995704/127790614-086bbb4b-22f1-4aec-82ea-95bd372e0afa.png">
+
+### 3. 
+
+![image 3](https://user-images.githubusercontent.com/84995704/133941937-82c32758-52ed-4c92-89e5-c6b79d1b4e1f.png)
+
+
+### 4. 
+
+![image 4](https://user-images.githubusercontent.com/84995704/133941941-db41d61e-a0af-4b76-b419-0db7f33d766d.png)
+
+
+### 5. 
+
+![image 5](https://user-images.githubusercontent.com/84995704/133941945-6f0ccb52-224b-4c4c-ac33-403874e604d4.png)
+
+
+### 6. 
+
+![image 6](https://user-images.githubusercontent.com/84995704/133941954-bb351b25-b771-4040-a296-7a0b2484bf8c.png)
+
+
+### 7. 
+
+![image 7](https://user-images.githubusercontent.com/84995704/133941958-bd63e90a-cbf0-4de9-874a-614f58819039.png)
+
 
 ## Summary
 At the moment at Pewlett Hackard, 64% of their employees are eligible for retirement and/or being redirected to mentorship initiatives. This implies that Pewlett Hackard are likely going to need an extensive hiring process in the upcoming years, since more than 50% are eligible losses. The good news, however, is that there is an ample pool of qualified, retirement-ready employees to mentor the next genermation. Further querying that isolates specific departments could provide better insight into the areas of the company that stand to be most effected.  Additional queries into manager to employee ratio could aid as well. 
